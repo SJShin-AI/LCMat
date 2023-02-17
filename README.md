@@ -14,6 +14,14 @@ LCMat identifies the optimal dataset by matching the worst loss-curvature gap be
 It achieves generalization around the local parameter region on dataset reduction procedure.
 
 
+<p align="center">
+  <img 
+    width="700"
+    src="https://user-images.githubusercontent.com/105624747/219567990-beb0cbb7-0ebb-44bd-957f-7182a79af8ab.png"
+  >
+</p>
+
+
 ## Setup
 Install required libraries.
 
