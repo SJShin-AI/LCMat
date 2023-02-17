@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+functorch==0.2.1
+numpy==1.22
+prefetch_generator==1.0.1
+requests==2.25.1
+scipy==1.5.3
