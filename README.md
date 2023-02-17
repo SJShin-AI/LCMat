@@ -22,6 +22,15 @@ It achieves generalization around the local parameter region on dataset reductio
 
 Here, $\theta$ is a parameter, $\rho$ denotes the maximum size of the perturbation. LCMat matches the Loss Curvature by making the gap between the curvature of $\mathcal{l}(T)$ and that of $\mathcal{l}(S)$.
 
+By considering the sharpness on loss difference, LCMat(right) can successfully identify the reduced dataset $S$ matching the loss landscape of original $T$, although the subset selected by Craig(left) does not match the loss curvature of $T$.
+
+<p align="center">
+  <img 
+    width="700"
+    src="https://user-images.githubusercontent.com/105624747/219572052-fded6505-861d-4db6-bf4e-f9cde1c5a71b.png"
+  >
+</p>
+
 ## Setup
 Install required libraries.
 
