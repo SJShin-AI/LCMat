@@ -20,7 +20,7 @@ It achieves generalization around the local parameter region on dataset reductio
   >
 </p>
 
-Here, $\theta$ is a parameter, $\rho$ denotes the maximum size of the perturbation.
+Here, $\theta$ is a parameter, $\rho$ denotes the maximum size of the perturbation. LCMat matches the Loss Curvature by making the gap between the curvature of $\mathcal{l(T)}$ and that of $\mathcal{l(S)}$.
 
 ## Setup
 Install required libraries.
