@@ -13,7 +13,6 @@ and [Il-Chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749).
 LCMat identifies the optimal dataset by matching the worst loss-curvature gap between the original dataset and the reduced dataset.
 It achieves generalization around the local parameter region on dataset reduction procedure.
 
-
 <p align="center">
   <img 
     width="700"
@@ -21,6 +20,7 @@ It achieves generalization around the local parameter region on dataset reductio
   >
 </p>
 
+Here, $\theta$ is a parameter, $\rho$ denotes the maximum size of the perturbation.
 
 ## Setup
 Install required libraries.
