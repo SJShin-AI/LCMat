@@ -11,9 +11,7 @@ and [Il-Chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749).
 ## Overview
 
 LCMat identifies the optimal dataset by matching the worst loss-curvature gap between the original dataset and the reduced dataset.
-It learns toward achieving the generalization around the local parameter region on dataset reduction procedure.
-
-Our implementation code is largely dependent on the code of [DeepCore](https://github.com/PatrickZH/DeepCore). We thank the authors for providing these codes.
+It learns toward achieving the generalization around the local parameter region on dataset reduction procedure. Our implementation code is largely dependent on the code of [DeepCore](https://github.com/PatrickZH/DeepCore). We thank the authors for providing these codes.
 
 <p align="center">
   <img 
