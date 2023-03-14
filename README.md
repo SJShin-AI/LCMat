@@ -1,7 +1,7 @@
 # LCMat (Loss Curvature Matching for Dataset Selection and Condensation, AISTATS 2023)
 
 Official PyTorch implementation of
-**"Loss-Curvature Matching for Dataset Selection and Condensation"** (AISTATS 2023) by
+**["Loss-Curvature Matching for Dataset Selection and Condensation"](https://arxiv.org/pdf/2303.04449v1.pdf)** (AISTATS 2023) by
 [Seungjae Shin*](https://sites.google.com/view/seungjae-shin),
 [HeeSun Bae*](https://sites.google.com/view/baeheesun),
 [Donghyeok Shin](https://aailab.kaist.ac.kr/xe2/members_phdstudent/20976),
